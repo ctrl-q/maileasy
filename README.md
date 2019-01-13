@@ -10,7 +10,7 @@ Simple mail sending
 To ensure the module works, create a .json configuration file like the template `maileasy_config.json`, then run this python code:
 ```python
 import maileasy
-maileasy.send("maileasy test", "success", config=<CONFIG FILE>))
+maileasy.send("maileasy test", "success", <EMAIL ADDRESS>, config=<CONFIG FILE>))
 ```
 
 
