@@ -1,0 +1,8 @@
+{
+    EMAIL ADDRESS: {
+        "username": SMTP USERNAME,
+        "pw": SMTP PASSWORD,
+        "smtp": SMTP HOST,
+        "port": SMTP PORT
+    }
+}
